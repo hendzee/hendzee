@@ -1,4 +1,4 @@
-### Hello there, i'm [hendras][website] 😁
+### Hello there, i'm [hendras][website] 🤘
 
 ## I'm a spell writer and cat lover 
 - 👨‍💻 Currenty work as mobile developer in malang
