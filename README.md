@@ -26,7 +26,7 @@
 <br />
 <br />
 
-[![Hendzee's github stats](https://github-readme-stats.vercel.app/api?username=hendzee)](https://github.com/hendzee/github-readme-stats)
+[![Hendzee's github stats](https://github-readme-stats.vercel.app/api?username=hendzee&show_icons=true)](https://github.com/hendzee/github-readme-stats)
 
 
 <br />
