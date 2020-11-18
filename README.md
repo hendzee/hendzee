@@ -1,10 +1,7 @@
 ### Hello there, i'm [hendras][website] 🤘
 
-## I'm a spell writer and cat lover 
-- 👨‍💻 Currenty work as mobile developer in malang
-- 🧞‍♂️ Flutter and RN writer
-- 🌱 Love design too
-- 🎮 Game player not proplayer, love football too
+### Lil Info 
+Hello I'm a human with the ability to write a spell commonly called a pr🧙‍♂️grammer. Fl📜tter and R📜act Native are my favorites. But I prefer fl📜tter these days 🤭. Slaves of 🐈 and 🍵 consumer
 
 #### Connect with me
 [<img align="left" height="26" width="26" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][website]
