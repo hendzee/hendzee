@@ -6,14 +6,14 @@
 - 🌱 Love and learning about design too
 - 🎮 Game player not proplayer, love football too
 
-## Connect with me
+### Connect with me
 [<img align="left" height="26" width="26" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][website]
 [<img align="left" height="26" width="26" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][website]
 [<img align="left" height="26" width="26" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][website]
 
 <br />
 
-## Spell Languages and Partners
+### Spell Languages and Partners
 [<img align="left" width="26" alt="Visual Studio Code" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />][website]
 [<img align="left" width="26" alt="Visual Studio Code" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
 [<img align="left" width="26" alt="Visual Studio Code" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png" />][website]
