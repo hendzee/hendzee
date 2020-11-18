@@ -2,8 +2,8 @@
 
 ## I'm a spell writer and cat lover 
 - 👨‍💻 Currenty work as mobile developer in malang
-- ✍ Love write poem with flutter and react native
-- 🌱 Love and learning about design too
+- 🧞‍♂️ Love write poem with flutter and react native
+- 🌱 Love and learning design too
 - 🎮 Game player not proplayer, love football too
 
 #### Connect with me
