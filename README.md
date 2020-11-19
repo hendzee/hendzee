@@ -29,4 +29,6 @@ Hello I'm a human with the ability to write a spell commonly called a programmer
 <br />
 <br />
 
+<img align="left" alt="Commit Activity" src="https://img.shields.io/github/commit-activity/m/hendzee/Poster?color=%23181717&label=commit&logo=github&style=for-the-badge" />
+
 [website]: https://github.com/hendzee
