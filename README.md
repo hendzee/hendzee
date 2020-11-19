@@ -21,7 +21,6 @@ Hello I'm a human with the ability to write a spell commonly called a programmer
 [<img align="left" width="26" alt="Visual Studio Code" src="https://raw.githubusercontent.com/github/explore/05d0f0dfceafd861bdf2b53559399dae7b2e2d8b/topics/figma/figma.png" />][website]
 
 <br />
-<br />
 
 [![Hendzee's github stats](https://github-readme-stats.vercel.app/api?username=hendzee&show_icons=true&theme=dracula)](https://github.com/hendzee/github-readme-stats)
 
