@@ -1,7 +1,5 @@
 ## Hello there, i'm [hendras][website] 🤘
-
-### Lil Info About Me
-Hello I'm a human with the ability to write a spell commonly called a programmer 🧙‍♂️. Flutter 📜 and React Native 📜 are my favorites. But I prefer flutter recently 🤭. Slaves of cat 🐈 and tea 🍵 consumer.
+I'm a human with the ability to write a spell commonly called a programmer 🧙‍♂️. Flutter 📜 and React Native 📜 are my favorites. But I prefer flutter recently 🤭. Slaves of cat 🐈 and tea 🍵 consumer.
 
 #### Connect with me
 [<img align="left" height="26" width="26" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][website]
