@@ -22,7 +22,7 @@ I'm a human with the ability to write a spell that normal people called a progra
 <br />
 <br />
 
-#### My Stats
+#### Magician Reports
 [![Hendzee's github stats](https://github-readme-stats.vercel.app/api?username=hendzee&show_icons=true&theme=dracula)](https://github.com/hendzee/github-readme-stats)
 
 #### My Spec's Tool
