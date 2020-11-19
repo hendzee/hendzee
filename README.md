@@ -20,6 +20,7 @@ I'm a human with the ability to write a spell commonly called a programmer ðŸ§™â
 
 <br />
 <br />
+<br />
 
 [![Hendzee's github stats](https://github-readme-stats.vercel.app/api?username=hendzee&show_icons=true&theme=dracula)](https://github.com/hendzee/github-readme-stats)
 
