@@ -25,8 +25,6 @@ I'm a human with the ability to write a spell commonly called a programmer ðŸ§™â
 #### My Stats
 [![Hendzee's github stats](https://github-readme-stats.vercel.app/api?username=hendzee&show_icons=true&theme=dracula)](https://github.com/hendzee/github-readme-stats)
 
-<br />
-
 #### My Spec's Tool
 <p align="left">
 <img alt="Ubuntu" src="https://img.shields.io/badge/OPERATING SYSTEM-POP OS-blue?color=%23E95420&logo=ubuntu&logoColor=%23FFF&style=for-the-badge" />
