@@ -1,5 +1,5 @@
 ## Hello there, i'm [hendras][website] 🎩
-I'm a human with the ability to write a spell that normal people called a programmer 🧙‍♂️. Flutter 📜 and React Native 📜 are my favorites. But I prefer flutter recently 🤭. Im DAY-WRITER-SPELL type, but sometimes also can be OWL-WRITER-SPELL type. Im a cat 🐈 tamers and tea 🍵 consumer.
+I'm a human with the ability to write a spell that normal people called a programmer 🧙‍♂️. Flutter 📜 and React Native 📜 are my favorites. But I prefer flutter recently 🤭. Im DAY-WRITER-SPELL type, but sometimes can be OWL-WRITER-SPELL type. Im a cat 🐈 tamers and tea 🍵 consumer. I learn some ability from our cousin PAINTER-SPELL type (some people called them as designer) too.
 
 #### Connect with me
 [<img align="left" height="26" width="26" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][website]
