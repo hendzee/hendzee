@@ -7,6 +7,7 @@ I'm a human with the ability to write a spell commonly called a programmer ðŸ§™â
 [<img align="left" height="26" width="26" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][website]
 
 <br />
+<br />
 
 #### Spell Languages
 [<img align="left" width="26" alt="Visual Studio Code" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />][website]
