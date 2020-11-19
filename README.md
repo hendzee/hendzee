@@ -29,7 +29,7 @@ I'm a human with the ability to write a spell commonly called a programmer ðŸ§™â
 
 <p align="left">
 <img alt="Ubuntu" src="https://img.shields.io/ubuntu/v/ubuntu-wallpapers/focal?color=%23E95420&logo=ubuntu&logoColor=%23FFF&style=for-the-badge" />
-<img alt="RAM" src="https://img.shields.io/github/commit-activity/m/hendzee/Poster?color=%23181717&label=commit&logo=github&style=for-the-badge" />
+<img alt="RAM" src="https://img.shields.io/badge/RAM-18G-blue?style=for-the-badge" />
 </p>
 
 
