@@ -27,9 +27,11 @@ I'm a human with the ability to write a spell commonly called a programmer ðŸ§™â
 
 <br />
 
-<img align="left" alt="Commit Activity" src="https://img.shields.io/github/commit-activity/m/hendzee/Poster?color=%23181717&label=commit&logo=github&style=for-the-badge" />
+<p align="left">
+<img alt="Commit Activity" src="https://img.shields.io/github/commit-activity/m/hendzee/Poster?color=%23181717&label=commit&logo=github&style=for-the-badge" />
 <br />
-<img align="left" alt="Ubuntu" src="https://img.shields.io/ubuntu/v/ubuntu-wallpapers/focal?color=%23E95420&logo=ubuntu&logoColor=%23FFF&style=for-the-badge" />
+<img alt="Ubuntu" src="https://img.shields.io/ubuntu/v/ubuntu-wallpapers/focal?color=%23E95420&logo=ubuntu&logoColor=%23FFF&style=for-the-badge" />
+</p>
 
 
 [website]: https://github.com/hendzee
