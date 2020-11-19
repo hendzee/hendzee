@@ -1,4 +1,4 @@
-## Hello there, i'm [hendras][website] 🧙‍♂️
+## Hello there, i'm [hendras][website] 🎩
 I'm a human with the ability to write a spell that normal people called a programmer 🧙‍♂️. Flutter 📜 and React Native 📜 are my favorites. But I prefer flutter recently 🤭. Im DAY-WRITER-SPELL type, but sometimes also can be OWL-WRITER-SPELL type. Im a cat 🐈 tamers and tea 🍵 consumer.
 
 #### Connect with me
