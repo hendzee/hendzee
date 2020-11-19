@@ -9,7 +9,7 @@ I'm a human with the ability to write a spell commonly called a programmer ðŸ§™â
 <br />
 <br />
 
-#### Spell Languages
+#### Spell Languages and My Partners
 [<img align="left" width="26" alt="Visual Studio Code" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />][website]
 [<img align="left" width="26" alt="Visual Studio Code" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
 [<img align="left" width="26" alt="Visual Studio Code" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png" />][website]
@@ -23,10 +23,12 @@ I'm a human with the ability to write a spell commonly called a programmer ðŸ§™â
 <br />
 <br />
 
+#### My Stats
 [![Hendzee's github stats](https://github-readme-stats.vercel.app/api?username=hendzee&show_icons=true&theme=dracula)](https://github.com/hendzee/github-readme-stats)
 
 <br />
 
+#### My Spec's Tool
 <p align="left">
 <img alt="Ubuntu" src="https://img.shields.io/badge/OPERATING SYSTEM-POP OS-blue?color=%23E95420&logo=ubuntu&logoColor=%23FFF&style=for-the-badge" />
 <img alt="RAM" src="https://img.shields.io/badge/INTEL-CORE I5 8TH-blue?style=for-the-badge&logo=intel&logoColor=white" />
