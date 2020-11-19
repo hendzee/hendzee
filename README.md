@@ -30,7 +30,7 @@ I'm a human with the ability to write a spell commonly called a programmer ðŸ§™â
 <p align="left">
 <img alt="Ubuntu" src="https://img.shields.io/badge/OPERATING SYSTEM-POP OS-blue?color=%23E95420&logo=ubuntu&logoColor=%23FFF&style=for-the-badge" />
 <img alt="RAM" src="https://img.shields.io/badge/RAM-18G-blue?style=for-the-badge" />
-<img alt="RAM" src="https://img.shields.io/badge/GRAPHIC-18G-green?style=for-the-badge&logo=nvidia&locoColor=white" />  
+<img alt="RAM" src="https://img.shields.io/badge/GRAPHIC-18G-green?style=for-the-badge&logo=nvidia&locoColor=%23FFF" />  
 </p>
 
 
