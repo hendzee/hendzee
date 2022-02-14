@@ -29,7 +29,7 @@ I'm a human with the ability to write a spell that normal people called a progra
 <p align="left">
 <img alt="Mac" src="https://img.shields.io/badge/OPERATING%20SYSTEM-Monterey-blue?color=inactive&logo=macOS&logoColor=%23FFF&style=for-the-badge" />
 <img alt="Procc" src="https://img.shields.io/badge/M1 CHIP-blue?color=inactive&style=for-the-badge&logo=apple&logoColor=white" />
-<img alt="RAM" src="https://img.shields.io/badge/RAM-8G-blue?color=inactive&style=for-the-badge" />
+<img alt="RAM" src="https://img.shields.io/badge/MEMORY-8G-blue?color=inactive&style=for-the-badge" />
 </p>
 
 
