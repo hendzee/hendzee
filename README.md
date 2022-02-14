@@ -28,7 +28,7 @@ I'm a human with the ability to write a spell that normal people called a progra
 #### My Spec's Tool
 <p align="left">
 <img alt="OS" src="https://img.shields.io/badge/OPERATING%20SYSTEM-Monterey-blue?color=inactive&logo=macOS&logoColor=%23FFF&style=for-the-badge" />
-<img alt="PROC" src="https://img.shields.io/badge/Monterey-blue?color=inactive&logo=apple&logoColor=%23FFF&style=for-the-badge" />
+<img alt="Mac" src="https://img.shields.io/badge/PROCCESSOR-M1-blue?color=inactive&logo=apple&logoColor=%23FFF&style=for-the-badge" />
 <img alt="Mac" src="https://img.shields.io/badge/OPERATING%20SYSTEM-Monterey-blue?color=inactive&logo=macOS&logoColor=%23FFF&style=for-the-badge" />
 </p>
 
